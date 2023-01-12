@@ -1,2 +1,2 @@
-const index = () => <div>Sign up</div>;
+const index = () => <div>Sign up page</div>;
 export default index;
